@@ -8,7 +8,7 @@ This is a visually appealing ios app, letting users to click a button to change 
 
 <img src="https://im2.ezgif.com/tmp/ezgif-2-ec4b8047df.gif" width=200><br>
 
-In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. 
+In the User stories section below, click on `Press here` button. between the `-[ ]` like this `- [x]` for any user story you complete. 
 
 ### Required User Stories
 - [ ] 1. User sees custom text in a label - Hello from {name}!
