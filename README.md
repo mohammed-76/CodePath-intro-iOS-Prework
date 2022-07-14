@@ -11,7 +11,7 @@ This is a visually appealing ios app, letting users to click a button to change 
 In the User stories section below, click on `Press here` button. between the `-[ ]` like this `- [x]` for any user story you complete. 
 
 ### Required User Stories
-- [ ] 1. User sees custom text in a label - Hello from {name}!
+- [] 1. User sees custom text in a label - Hello from {name}!
 - [ ] 2. User see's custom background color.
 - [ ] 3. User can tap a button to change the text color of the label.
 
