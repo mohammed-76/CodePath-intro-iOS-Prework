@@ -1,12 +1,14 @@
 ## CodePath Intro to Mobile Development: Pre-work Mobile App
 
 ### App Description
+
 This is a visually appealing ios app, letting users to click a button to change the text and background view color
 
 ### App Walk-though
+
 <img src="https://im2.ezgif.com/tmp/ezgif-2-ec4b8047df.gif" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. 
 
 ### Required User Stories
 - [ ] 1. User sees custom text in a label - Hello from {name}!
