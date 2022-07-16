@@ -7,7 +7,7 @@ This is a visually appealing ios app, letting users to click a button to change 
 ### App Walk-though
 
 
-https://user-images.githubusercontent.com/69389660/179337633-3f67f9eb-7121-4d1b-b72a-e9c51b5003d3.mov
+<img src="https://user-images.githubusercontent.com/69389660/179337633-3f67f9eb-7121-4d1b-b72a-e9c51b5003d3.mov" width=200><br>
 
 
 <img src="https://im2.ezgif.com/tmp/ezgif-2-ec4b8047df.gif" width=200><br>
