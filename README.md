@@ -16,7 +16,7 @@ Tap on the app icon to open the app. Click on `Press here` button to see the cha
 - [x] 3. User can tap a button to change the text color of the label.
 
 ### Optional User Stories
-- [X] 1. User can tap a button to change the color of the background view.
+- [x] 1. User can tap a button to change the color of the background view.
 - [ ] 2. User can tap a button to change the text string of the label - Goodbye 👋.
 - [ ] 3. User can tap on the background view to reset all views to default settings.
 - [ ] 4. User can update the label text with custom text entered into the text field.
