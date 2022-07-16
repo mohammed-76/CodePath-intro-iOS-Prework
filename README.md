@@ -10,7 +10,7 @@ This is a visually appealing ios app, letting users to click a button to change 
 <img src="https://user-images.githubusercontent.com/69389660/179337633-3f67f9eb-7121-4d1b-b72a-e9c51b5003d3.mov" width=200><br>
 
 # GIF
-<img src="https://im2.ezgif.com/tmp/ezgif-2-ec4b8047df.gif" width=200><br>
+<img src="https://im.ezgif.com/tmp/ezgif-1-70017dae63.gif" width=200><br>
 
 Tap on the app icon to open the app. Click on `Press here` button to see the changes listed below:
 
